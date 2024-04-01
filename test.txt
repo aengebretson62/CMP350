@@ -1,1 +1,1 @@
-This is my GitHub change test file.
+This is my GitHub change from my cloned repo test file.
